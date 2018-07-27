@@ -1,2 +1,2 @@
-# ConversionCalculator
-CalculatorUi in swift
+# Conversion Calculator
+Calculator app for conversions in Swift
